@@ -1,0 +1,5 @@
+﻿  SharpnessCore.cpp
+c:\visualstudio2017projects\sharpnesstest\sharpnesstest\sharpnesscore.cpp(60): warning C4244: 'initializing': conversion from 'intptr_t' to 'long', possible loss of data
+c:\visualstudio2017projects\sharpnesstest\sharpnesstest\sharpnesscore.cpp(79): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\visualstudio2017projects\sharpnesstest\sharpnesstest\sharpnesscore.cpp(153): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  SharpnessTest.vcxproj -> C:\VisualStudio2017Projects\SharpnessTest\x64\Debug\SharpnessTest.exe
